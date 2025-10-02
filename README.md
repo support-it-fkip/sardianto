@@ -11,5 +11,3 @@ Repository ini berisi simulasi Fisika dasar menggunakan **Python, NumPy, dan Mat
 Klik tombol di bawah untuk langsung membuka notebook ini di Google Colab:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/support-it-fkip/sardianto/blob/main/glb_gmb.ipynb)
-
-## 📂 Struktur Repository
